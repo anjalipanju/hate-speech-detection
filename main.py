@@ -9,7 +9,7 @@ import re
 
 
 # Loading the dataset
-tweets = pd.read_csv()
+tweets = pd.read_csv('https://github.com/anjalipanju/hate-speech-detection/blob/main/project_dataset_new.xlsx')
 tweets.head()
 # tweets.info()
 
